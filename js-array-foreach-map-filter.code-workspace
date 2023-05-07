@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../js-array-find-findindex"
+		},
+		{
+			"path": "../jasmine-testing-exercises /calculator"
+		},
+		{
+			"path": "../jasmine-testing-exercises /tip-pool"
+		},
+		{
+			"path": "../../Desktop/src/memeGenerator"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "memeGenerator"
+	}
+}
